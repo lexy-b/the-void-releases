@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Prio</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 23 Jun 2026 09:22:48 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.0/The-Void-1.0.dmg" length="9646742" type="application/octet-stream" sparkle:edSignature="HgSvtHLpT/mA2T8tO5GkZiB2j/cU83If+m6HnFQXi4aPTSUPdrrK8XlnYwAgBc0quDhU/K0eTdSK2YGulnXhCQ=="/>
+        </item>
+    </channel>
+</rss>
