@@ -3,6 +3,17 @@
     <channel>
         <title>Prio</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 28 Jun 2026 19:26:13 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.1.0/The-Void-1.1.0.dmg" length="11142481" type="application/octet-stream" sparkle:edSignature="/X2aksKjGqLqhZ+w3Jx51NCDHHogJ7UEEPR0fvtCLHXWv+3Va2OCrmWwxqI39+K4CxDl3fxnwKXxWTHer1v2Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.1.0/Prio4-3.delta" sparkle:deltaFrom="3" length="2246970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="slZgd8MajTvpX52rZDoiKHLOFLiPOy+tsaacFrCEI3yRDcc9LLlb5uHFToTO4ckTwoMaKcASs9WJsKBOFaJhDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Thu, 25 Jun 2026 20:45:50 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
