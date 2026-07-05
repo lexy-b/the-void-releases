@@ -4,6 +4,17 @@
         <title>Prio</title>
         <item>
             <title>1.6.1</title>
+            <description><![CDATA[
+                <h3>A big quality sprint.</h3>
+                <ul>
+                    <li><b>Capture from anywhere</b> — ⌥⌘N opens capture in place instead of jumping you home; Undo reopens what you typed</li>
+                    <li><b>Editable inbox items</b>, and reject a wrong parse chip with a tap</li>
+                    <li><b>Quick reschedule</b> — "Move to… Tomorrow / This weekend / Next week"</li>
+                    <li><b>A new feel layer</b> — satisfying two-beat completions, haptics on iPhone, hover on Mac</li>
+                    <li><b>A cleaner, editable Day/Week agenda</b> — overlapping events sit side by side</li>
+                </ul>
+                <p>Plus polish throughout.</p>
+            ]]></description>
             <pubDate>Sun, 05 Jul 2026 01:25:18 -0700</pubDate>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
