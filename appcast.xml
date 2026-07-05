@@ -4,6 +4,17 @@
         <title>Prio</title>
         <item>
             <title>1.6.0</title>
+            <description><![CDATA[
+                <h3>A top-to-bottom design pass.</h3>
+                <ul>
+                    <li><b>A new signature palette</b> — a deep violet-black canvas with one derived family of room hues</li>
+                    <li><b>Cinzel + Inter</b> typography and a bespoke <b>eclipse wordmark</b></li>
+                    <li><b>An app-wide starfield</b> drifting behind every room</li>
+                    <li><b>A Liquid Glass sidebar</b></li>
+                    <li><b>The new Plans room</b> — Projects + Goals together</li>
+                </ul>
+                <p>Everything feels more like one place.</p>
+            ]]></description>
             <pubDate>Sat, 04 Jul 2026 22:34:55 -0700</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
