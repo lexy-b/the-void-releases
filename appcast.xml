@@ -4,6 +4,15 @@
         <title>Prio</title>
         <item>
             <title>1.8.0</title>
+            <description><![CDATA[
+                <h3>Shopping, Media, and Projects leveled up.</h3>
+                <ul>
+                    <li><b>Snap-to-add Shopping</b> — take a photo, and a lightweight sheet captures where you found it, the price (<b>OCR pre-fills it from a tag</b>), and type</li>
+                    <li><b>A real wishlist</b> — "Ideas for them" on People and your own aspirational shelf are one set, with one-tap promote-to-gifts; plus photo-forward <b>collections</b> with running totals</li>
+                    <li><b>A media library that scales</b> — a poster wall with a Continue band, search across everything, filter chips, and cached covers that load instantly</li>
+                    <li><b>A Projects workday hub</b> — epics grouped To-do / In-progress / Done, a Board/List view, and a calm side-rail for linked notes/people; <b>ongoing projects now clear completed tasks</b></li>
+                </ul>
+            ]]></description>
             <pubDate>Sun, 05 Jul 2026 20:41:52 -0700</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
