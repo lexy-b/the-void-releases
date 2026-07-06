@@ -4,6 +4,15 @@
         <title>Prio</title>
         <item>
             <title>1.9.0</title>
+            <description><![CDATA[
+                <h3>People becomes a real contacts book — with encrypted backups and richer fitness.</h3>
+                <ul>
+                    <li><b>People, fleshed out</b> — hold title, company, phone, email, birthday, and networking tags; <b>import straight from Contacts</b> (name, company, phone, email, birthday all carry over); and share a scannable <b>digital business card</b> or import a received .vcf</li>
+                    <li><b>Birthday reminders</b> — set or import a birthday and The Void nudges you a week ahead and again day-of</li>
+                    <li><b>Encrypted backups</b> — export/import is now protected with a password (AES-GCM), so your data leaves the app safely</li>
+                    <li><b>Richer fitness</b> — sleep, Apple Watch rings, resting heart rate, HRV, and workouts join steps and refresh in the background (weight stays manual)</li>
+                </ul>
+            ]]></description>
             <pubDate>Sun, 05 Jul 2026 21:52:22 -0700</pubDate>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
