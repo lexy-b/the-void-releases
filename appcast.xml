@@ -4,6 +4,16 @@
         <title>Prio</title>
         <item>
             <title>1.12.0</title>
+            <description><![CDATA[
+                <h3>Fixes across Focus, capture, Week view, and Media.</h3>
+                <ul>
+                    <li><b>Focus is today-only</b> — future-dated tasks no longer clutter your Focus board</li>
+                    <li><b>Cleaner capture</b> — a <b>#project</b> tag is stripped from the title (it stays a chip, not literal text)</li>
+                    <li><b>Week-view events are clickable again</b> on Mac — tap to edit</li>
+                    <li><b>Steadier Media covers</b> on Mac — no more flashing/reloading posters</li>
+                    <li><b>Ongoing projects</b> can now choose whether new tasks start active or on hold</li>
+                </ul>
+            ]]></description>
             <pubDate>Mon, 06 Jul 2026 14:04:25 -0700</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
