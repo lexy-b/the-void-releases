@@ -4,6 +4,13 @@
         <title>Prio</title>
         <item>
             <title>1.11.1</title>
+            <description><![CDATA[
+                <h3>Create events by hand, and a much better Notes editor.</h3>
+                <ul>
+                    <li><b>Manually create events</b> — tap an empty slot in Day view to drop an event at that time, or use the new <b>+</b> in Agenda for a full composer (start/end, all-day, repeat, location, notes, links)</li>
+                    <li><b>Notes editing fixed</b> — no more overlapping lines or ghost placeholder text, bulleted/numbered/checklist rows lay out correctly, long lines wrap, and the cursor stays put while you type</li>
+                </ul>
+            ]]></description>
             <pubDate>Mon, 06 Jul 2026 13:09:00 -0700</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
