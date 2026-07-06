@@ -4,6 +4,18 @@
         <title>Prio</title>
         <item>
             <title>1.7.0</title>
+            <description><![CDATA[
+                <h3>The first two roadmap sprints.</h3>
+                <ul>
+                    <li><b>A new Focus board</b> — your top 3-5 for the day, with a <b>Braindump / Later</b> lane for rough thoughts and one-tap <b>refine</b></li>
+                    <li><b>Health, reimagined</b> — its own crimson, a calm "how am I" glance, and scrubbable charts</li>
+                    <li><b>Aspiration goals</b> — vague goals you <i>tend</i> ("last tended 3 days ago"), never "0 of 0 · failed"</li>
+                    <li><b>A cleaner People modal</b> — no more duplicated items, a Gifts section, a slimmer header</li>
+                    <li><b>Inline +tag autocomplete</b> while capturing</li>
+                    <li><b>A big de-clutter</b> — content posts no longer bleed into your tasks and agenda</li>
+                </ul>
+                <p>Plus the edit-date fix (editing to add "friday 2pm" now sets the due date).</p>
+            ]]></description>
             <pubDate>Sun, 05 Jul 2026 18:35:15 -0700</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
