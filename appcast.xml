@@ -4,6 +4,16 @@
         <title>Prio</title>
         <item>
             <title>1.13.0</title>
+            <description><![CDATA[
+                <h3>A design refresh — new type, a new mark, and Liquid Glass.</h3>
+                <ul>
+                    <li><b>New typography</b> — Alice for headings, Bitter for body text (Notes stay in a clean sans)</li>
+                    <li><b>A new star mark</b> — the finished peach star on the home and app icon, in white elsewhere</li>
+                    <li><b>Liquid Glass home</b> — the home cards are now real glass, with the starfield drifting behind them</li>
+                    <li><b>A simpler home</b> — the Today view is gone; the home is one clean surface</li>
+                    <li><b>Photo backgrounds fixed</b> — custom photo (and starfield) home backgrounds render correctly again</li>
+                </ul>
+            ]]></description>
             <pubDate>Mon, 06 Jul 2026 16:55:37 -0700</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
