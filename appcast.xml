@@ -4,6 +4,14 @@
         <title>Prio</title>
         <item>
             <title>1.14.0</title>
+            <description><![CDATA[
+                <h3>Copy, paste, and undo in Notes — and a redesigned capture.</h3>
+                <ul>
+                    <li><b>Notes copy/paste</b> — select a whole note and copy, cut, or paste (formatting and mentions preserved)</li>
+                    <li><b>Notes undo</b> — a proper &#8984;Z / &#8984;&#8679;Z undo &amp; redo across the whole note (typing, formatting, blocks, paste, cut)</li>
+                    <li><b>Redesigned capture</b> — a roomier modal with a tappable destination, color-coded chips (people, projects, tags) you can toggle on/off, and a cleaner date picker. Type and Enter still just works.</li>
+                </ul>
+            ]]></description>
             <pubDate>Mon, 06 Jul 2026 19:31:57 -0700</pubDate>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
