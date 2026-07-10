@@ -3,6 +3,21 @@
     <channel>
         <title>Prio</title>
         <item>
+            <title>1.18.0</title>
+            <pubDate>Thu, 09 Jul 2026 17:05:35 -0700</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/The-Void-1.18.0.dmg" length="48283010" type="application/octet-stream" sparkle:edSignature="tzKorUmPEbVn9iUSqOdsLSUMwdOK3JGDs1yflXz2AI5caS4jPbHwCJ0XaYavxwh+LuipXMFZF5zQxHSG1LRjAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/Prio24-23.delta" sparkle:deltaFrom="23" length="1299234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pJ0QOSJwIs137QdQXdm3xlpcZZCN9U4CBtxBU4p5a1uCFLcPZtOEIyCWn/OWD6/LPl8XeXiQ3OYc561th9m2CQ=="/>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/Prio24-22.delta" sparkle:deltaFrom="22" length="1519306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CuPay+7HqAwEIKx/0R/meCV+Mne1F892uzPHfxoot3U2/MeoDU68oWo1KajiAm8fEWxtECxc6Wo8R8xClkEtDw=="/>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/Prio24-21.delta" sparkle:deltaFrom="21" length="1589402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fJ+LuI/9iebb+avvlL5v2+XAiTA4LwzJoxrfYTEGHRVZy/LL1xyW+o3TkleraD+lhYpFFa/0pQt1Es9j4HMCDw=="/>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/Prio24-20.delta" sparkle:deltaFrom="20" length="1925806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4bcqaAXI9cp6P/V9HXk0e8HykK8FcDaiP4kWh3iECGgZhzOFPlYLnWnu5U+PeUMKh/ABhNWvmGIxDXMIZqIoCg=="/>
+                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.18.0/Prio24-19.delta" sparkle:deltaFrom="19" length="2061238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bNX0+gXndDmhEFi5FyM67tFOFe+71CvZHCIIC21Pipf0fGsvlkFKEiyhdzjTPfdQ5u4YMvn0ZDLAmfkKleBdAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.17.0</title>
             <pubDate>Thu, 09 Jul 2026 10:01:03 -0700</pubDate>
             <sparkle:version>23</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.16.0/Prio22-19.delta" sparkle:deltaFrom="19" length="1613854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xiY8uNCcBpzabf55xAIcknMyz1XdMvqdBWUC4hS1zPagwqd2VZc0kVK8/xAvpl+W3hlPMHZr5TX0h1ZkUKfvBg=="/>
                 <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.16.0/Prio22-18.delta" sparkle:deltaFrom="18" length="2269174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Azm3AJfvwFrKvk2FdmoQ+2sLbaK4ZdCqTv+nWa8RMbCfFTYghtfMgNCgGn11JSelt1uq4Yr8k0MR4YNalME9Bg=="/>
                 <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.16.0/Prio22-17.delta" sparkle:deltaFrom="17" length="2340754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AxMe0qG3HBN1XAEcokIQBhTXx84pOYfTsUpyw4kn1TAsvTIsWQdVlT1GvwKFDuY1tO4vBywVvWRVFE/jUTJEBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.15.0</title>
-            <pubDate>Tue, 07 Jul 2026 20:40:07 -0700</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/The-Void-1.15.0.dmg" length="48186911" type="application/octet-stream" sparkle:edSignature="Boz7EGMzSi7WSDs14Hz77Je8vjKKx9fICQRNRu+SfB2STMShB5SZggvkbnIwp7IzIZBeghsjVIeor8tCMtJvDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/Prio21-20.delta" sparkle:deltaFrom="20" length="1382130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xPIRCJsOkG3YlibcBp1IUcook2ZA7bFrFF5e/tMbupXuXLjbwgrHbUhGzu8FbMbclNlBg/xMKyyVNqttbAvuCQ=="/>
-                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/Prio21-19.delta" sparkle:deltaFrom="19" length="1550250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dNdxg1yj+b+t2FDXDEqGOSddXua3ckjTG/xJ/sWZrvCPRUfUW40Szo6A0vDWPxWt+6un97TRA7TTWxG52THBAw=="/>
-                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/Prio21-18.delta" sparkle:deltaFrom="18" length="2208490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hN6B3aVTt8LFKauLwDhPSvZWRZM1aw/UivOR6yA50mHaorNiQQaY5qmaov2GLwjlFQboa/iXbnGDMXO3BpWxAg=="/>
-                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/Prio21-17.delta" sparkle:deltaFrom="17" length="2295770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ff3vmw6tpBEva1rarYG5aP8a+brCbtUg66zkpNyLfCf8ZOJ5EczWiaZUvVcZuEl+EpHqjfmbJ3LpQ6XrpZGhAg=="/>
-                <enclosure url="https://github.com/lexy-b/the-void-releases/releases/download/v1.15.0/Prio21-16.delta" sparkle:deltaFrom="16" length="2435518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CW8Mb+tWgfwafMGwdl9rEuyZaSKnvX6wbSj8elWN7bJIaHBxyfJfOohftGSE6d/hpZVaHaT7Fuzoy5MI482mDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
